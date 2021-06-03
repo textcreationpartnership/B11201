@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the great treason and syege of Andwerpe that was in July last past by Marten of Rossen which came forth of Gelderlande with xiiii.M. men of armes.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11201</idno><idno type="EEBO-CITATION">99848561_176698</idno>
+  <idno type="VID">176698</idno>
+  <idno type="EEBO-PROQUEST">2248547544</idno>
+  <idno type="STC">STC 692.5</idno>
+  <idno type="STC">ESTC S113325</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848561e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176698)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 641:21 or 1862:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the great treason and syege of Andwerpe that was in July last past by Marten of Rossen which came forth of Gelderlande with xiiii.M. men of armes.</title>
+               </titleStmt>
+               <extent>[8+] p.   </extent>
+               <publicationStmt>
+                  <publisher>In saynt Pulchres parysh in the Old Bayly, by Rychard Lant,</publisher>
+                  <pubPlace>[Imprynted at London :</pubPlace>
+                  <date>[1542?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication and printer's name from STC; publication date conjectured by STC (Rossem's invasion of Belgium took place in 1542).</note>
+                  <note>Identified as STC 692a at reel 641:21.</note>
+                  <note>Signatures: [A]⁴+.</note>
+                  <note>Imperfect: a fragment; consists of 4 leaves, mostly mutilated.</note>
+                  <note>Reproductions of the originals in the Folger Shakespeare Library and the John Ryland University Library, Manchester, England.</note>
+                  <note>Appears at reel 641 (Folger Shakespeare Library copy), and at reel 1862 (John Ryland University Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rossem, Maarten van, 1478-1555 --  Early works to 1800.</term>
+               <term type="geographic_name">Belgium --  History --  Charles V, 1506-1555.</term>
+               <term type="geographic_name">Antwerp (Belgium) --  History --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176698:1"/>
+            <head>❧ Of the great treason and syege of And werpe / that was in Iuly last past by Marten of Rossen which came forth of Gelderlande with xiiii. M. men of armes.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ut now of late dayes / arose some suspeccyon of warre in Gelder<g ref="char:EOLhyphen"/>lande vpon the watersyde called the Mase / where a small cōpany of Sol<g ref="char:EOLhyphen"/>diours other wyse called Lādes kneygh<g ref="char:EOLhyphen"/>tes were sene gatheryng together / whose nombre encreased daly more and more. Which Souldyours behaued them selfe well / payeng for their meat with all other thynges that they toke lyberally / and en<g ref="char:EOLhyphen"/>treated the people very well / Which soul<g ref="char:EOLhyphen"/>dyours kept very secrete their entent and purpose / so that no man greatly susp<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:176698:2"/>rather a rauenynge wolfe / came to And-werpe / in the chefe of Syngsons marte / other wyse called Pentecost Fayre nowe last / where as he bancketted / &amp; taryed by the space of .iiii. wekes or ther about with his coūtre men the Gelders that dwelt in And werpe / &amp; marked / vewed and espyed well the Towne / &amp; beheld the great abū<g ref="char:EOLhyphen"/>daūce of all maner of ryches that was as then ouerflowynge in that Cytye / which tyches farre surmounted all the ryches of any Cytie in the world / by the iudgement of all men that haue well traueled</p>
+            <p>¶ This Captayne afore sayde founde in this aforsayd Towne certayne traytours fyt for his purpose which conspired with hym and consented at a day appoynted (y<seg rend="sup">e</seg> whiche shulde haue ben the .xxv. or .xxvi. daye of Iuly last past) to rayse fyre in the to wne / as in y<seg rend="sup">e</seg> great church with dyuers of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> partes of the same / but
+<pb facs="tcp:176698:2"/>For all Realmes Christe shuld haue smar<g ref="char:EOLunhyphen"/>te<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for it / if the towne had come into theyr hādes / besyde the great murther / y<seg rend="sup">e</seg> wold a ben there. Therfore now acknowledge and say all people: Great is our <hi>LORD</hi> &amp; great is his power ye his knowledge is in<g ref="char:EOLunhyphen"/>finite. This aforsayd Martyn Rossen Ca<g ref="char:EOLunhyphen"/>pitayne with his hoost / beynge come be<g ref="char:EOLhyphen"/>fore the towne at y<seg rend="sup">e</seg> day appoynted / which shuld haue gyuen assaulte when this fyre shulde haue ben raysed in the Towne: At which tyme his frēdes / &amp; traytou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s afore<g ref="char:EOLunhyphen"/>sayd were apoynted / that they shu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d haue counterfayted keyes to open the gates of the Towne. Thus had they deuised with many other thynges that shulde haue ben fyt for theyr vnhappy purpose.</p>
+            <p>¶ And beyng also of theyr wycked coun<g ref="char:EOLhyphen"/>cell and coniuracyon / dyuers substa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ial men <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Towne / that bare office <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:176698:3"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fered paynes of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccordyng to the law of the Towne an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>untre / &amp; in all is ta<g ref="char:EOLhyphen"/>ken of these Traytours / to the nombre of one C. and more that wolde haue set the Towne on fyre / to thentēt y<seg rend="sup">e</seg> the enemyes without the Towne myght haue had the better theyr purpose. But now to returne agayne where I left / Tis Martyn after he had cōcluded with the other traytours of this towne departed from thence to the hoost and augmented his company to the nombre of .xiii. M. and came ouer the wa<g ref="char:EOLunhyphen"/>ter and tyuer of the Mase / approchyng to<g ref="char:EOLunhyphen"/>warde the Towne of And werpe / which beyng ones there knowē / great fear came ouer all them that were therin. And as god wold / they perceyued one of the afore sayd traytours to be busy about the gates in the night. Vpon suspeceyon the rulers of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Towne dyd apprehende <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>me / <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the same / but
+<pb facs="tcp:176698:3"/>of Orange / &amp; the Coūte &amp; Lor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp;c. with great prouision made <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Towne of Andwerp for the p<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> therof. And in the way comm<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Towne / the Prynce encount<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>myes or he was ware / and so <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his men / &amp; he had moch to do t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>selfe vntaken / which prynce ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> two hundreth horse men / and a <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> foote men and more / yet parte <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that fled came afore into y<seg rend="sup">t</seg> to w<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the Prynce was slayne / which <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> loked backe / for if they had / t<gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> haue sene the prynce folowyn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the hast that he mought. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had a hole in his harnes behy<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his body was not hurt.</p>
+            <p>¶ Furthermore the fyrst day <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nemyes came / they sent to the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e / for to haue them <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:176698:4"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> walles by straglers so neare <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as one of theyr cōpany slayn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ked cōtinually that theyr fren<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>tours within shuld haue ray<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>hin the Towne. But through <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>stion / that was preuented by <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all the sellers full of erth and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ge the stretes. And great abū<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ghtes was kept in the stretes <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> / so that no mā might walke <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s or passe without examinatiō <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> were taken lepynge ouer the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e rydynge in the watche / and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken by the Women hauynge <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>dre and other preparacions of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urthermorē the gonshot went <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that nyght / that the enemyes <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d not pytche theyr campe thē <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> no meanes coulde they make <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that nyght. And in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>me / <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:176698:4"/>in the couerte of the smoke. W<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Cytte perceyued / one Bu<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>taine &amp; a Spaynyard issuede<gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him thre hundreth men to hau<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but whan he was gone a flyg<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Captayne aduised him wel a<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> backe agayn into the towne. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their abundaunce of gonne sh<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> all the nyght longe / discōforte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mies / so that they durst not ap<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> assaulte the Towne / the whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ded to assaulte a Bulwarke th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+            </p>
+            <p>¶ And in the thyrd mornyng <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted from Andwerpe burnyng <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a ryche and a frutefull countre<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> resistinge them to this daye. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> departing / they sent to the P<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>range that he shuld raunsome <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dreth of his mē / that they had t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mē of warre be now scat<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <pb facs="tcp:176698:5"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Yet there were at that tyme <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Towne of Antwerp aboue an <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ousand of fightinge men. And <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>se the Lady Regent had a gret <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f men with her. And the great <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Flaunders had another gret <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith diuers other in the coū<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> yet they wolde not with <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their. CC. thousand and more / as it is reported not set vpon them.</p>
+            <trailer>FINIS</trailer>
+         </div>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rynted at London in sayn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pulchres parysh in the Old Bayly / by Rychard Lan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
